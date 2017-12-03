@@ -5,7 +5,7 @@ this repository is for management of SOCC Members
 1. fork this project
 2. create a file
 ```
- ㄴ members         
+ ㄴ member        
     ㄴ nickname.md
 ```
 3. write a member information refer to template.md
